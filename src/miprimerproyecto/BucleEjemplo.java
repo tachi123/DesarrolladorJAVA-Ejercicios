@@ -4,7 +4,7 @@ public class BucleEjemplo {
 
 	public static void main(String[] args) {
 		
-		int unNum = 11;
+		int unNum = 15;
 		
 		System.out.println("Ciclo WHILE: Disminuye");
 		
