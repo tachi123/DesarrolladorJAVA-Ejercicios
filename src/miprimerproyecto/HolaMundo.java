@@ -5,7 +5,7 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Prueba de todas las instrucciones de asignación:");		
+		System.out.println("Prueba de instrucciones de asignación:");		
 		
 		// Instrucciones de asignación y creación de variable
 		char unaLetra = 'a';

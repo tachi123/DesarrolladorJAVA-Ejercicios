@@ -3,7 +3,9 @@ package miprimerproyecto;
 public class BucleEjemplo {
 
 	public static void main(String[] args) {
-				
+		
+		int unNum = 10;
+		
 		System.out.println("Ciclo WHILE: Disminuye");
 		
 		while(unNum > 0) {

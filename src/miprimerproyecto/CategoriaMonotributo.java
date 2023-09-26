@@ -4,7 +4,7 @@ public class CategoriaMonotributo {
 
 	public static void main(String[] args) {
 		
-		double ingresosCatA = 748382.04;
+		double ingresosCatA = 748382.07;
         int superficieCatA = 30;
         int energiaCatA = 3330;
         
