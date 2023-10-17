@@ -13,6 +13,7 @@ public class Producto {
 	
 	private static final Double minPrecio = 150.5;
 	
+	
 	public Producto(String nombre) {
 		this.nombre = nombre;
 		this.fechaAlta = LocalDate.now();

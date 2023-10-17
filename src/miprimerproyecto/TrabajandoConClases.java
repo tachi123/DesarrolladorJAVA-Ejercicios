@@ -7,11 +7,11 @@ import miprimerproyecto.entidades.Carrito;
 public class TrabajandoConClases {
 
 	public static void main(String[] args) {
-		
-		//Instanciar una persona
+				
+		//Instanciar un objeto del tipo persona
 		Persona nahuel = new Persona("Nahuel","Ramirez");
 		System.out.println(nahuel.toString());
-		
+				
 		//Instanciar 3 productos
 		//1 producto solo con su nombre
 		Producto harina = new Producto("Harina");
